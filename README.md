@@ -2,7 +2,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://www.npmjs.com/package/memer-api)
 
 
-INVITE THE PUBLIC VERSION OF [MEME BOT](https://discord.com/api/oauth2/authorize?client_id=830476826413498478&permissions=8&scope=bot%20applications.commands)
+# INVITE THE PUBLIC VERSION OF [MEME BOT](https://discord.com/api/oauth2/authorize?client_id=830476826413498478&permissions=8&scope=bot%20applications.commands)
 
 [MEMER API DOCUMENTATION](https://memer-api.js.org/)
 
