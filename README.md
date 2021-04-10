@@ -23,6 +23,8 @@
 
 # SUPPORT
 
+**This Bot is coded by: [@Tomato6966](https://github.com/Tomato6966)
+
 MEMER API
 BY STARTING THE [MEMER API](https://www.npmjs.com/package/memer-api) REPO ON GITHUB & DOWNLOAD THE PACKAGE
 
