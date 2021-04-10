@@ -1,32 +1,21 @@
 {
-  "//1": "THIS IS JUST A EXAMPLE BOT FOR MEMER API",
-  "name": "EXAMPLE MEMER",
-  "version": "0.0.1",
-  "description": "AN AMAZING BOT WITH IMAGE COMMAND MADE USING MEMER API.",
-  "main": "server.js",
+  "name": "discord-js-handler-template",
+  "version": "1.0.0",
+  "description": "Discord.js Command and Event Handler Template with example Command usages! For Questions: https://discord.gg/fS6qBSm",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
+  "author": "Tomato#6966",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.2",
-    "random-puppy": "^1.1.0",
-    "ascii-table": "^0.0.9",
-    "ms": "^2.1.3",
-    "memer-api": "^1.0.7"
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.1",
+    "memer-api": "^2.0.2"
   },
-  "engines": {
-    "node": "12.x"
-  },
-  "repository": {
-    "url": "https://github.com/shinchanOP/example-bot-memer-api"
-  },
-  "engines": {
-    "node": "12.x"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "glitch",
-    "express"
-  ]
+  "devDependencies": {
+    "ascii-table": "0.0.9",
+    "colors": "^1.4.0"
+  }
 }
