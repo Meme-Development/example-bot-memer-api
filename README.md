@@ -1,5 +1,5 @@
 # THIS BOT IS MADE USING [MEMER API](https://www.npmjs.com/package/memer-api)
-[!Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 [MEMER API DOCUMENTATION](https://memer-api.js.org/)
 
