@@ -8,7 +8,9 @@
   * @INFO
 */
 //Importing all needed Commands
-const Discord = require("discord.js"); //this is the official discord.js wrapper for the Discord Api, which we use!
+const Discord = require("discord.js"); 
+const Meme = require("memer-api");
+//this is the official discord.js wrapper for the Discord Api, which we use!
 const colors = require("colors"); //this Package is used, to change the colors of our Console! (optional and doesnt effect performance)
 const fs = require("fs"); //this package is for reading files and getting their inputs
 //Creating the Discord.js Client for This Bot with some default settings ;) and with partials, so you can fetch OLD messages
