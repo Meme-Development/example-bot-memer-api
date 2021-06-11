@@ -26,6 +26,9 @@ module.exports = {
         .setColor("RED")
         .setDescription(`Useage: \`${prefix}excuseme <TEXT>\``)
       ).catch(e => console.log("Couldn't delete msg, this is for preventing a bug".gray))
+    var user = message.mentions.users.first() || message.author;
+    //get avatar of the user
+    var avatar = user.displayAvatarURL({ format: "png" });
       var avatar = user.displayAvatarURL({ format: "png" });
       //get the memer image
       client.memer.excuseme(avatar).then(image => {
