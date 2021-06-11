@@ -26,7 +26,7 @@ module.exports = {
         .setColor("RED")
         .setDescription(`Useage: \`${prefix}excuseme <TEXT>\``)
       ).catch(e => console.log("Couldn't delete msg, this is for preventing a bug".gray))
-      
+      var avatar = user.displayAvatarURL({ format: "png" });
       //get the memer image
       client.memer.excuseme(avatar).then(image => {
         //make an attachment
