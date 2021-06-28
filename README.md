@@ -6,6 +6,17 @@
 
 [MEMER API GITHUB REPO](https://github.com/shinchanOP/memer-api)
 
+## BEST HOSTING | Bittmax.de
+BITTMAX Quality is their solution. Bittmax is our first and probably most important sponsor!
+
+### What they are offering:
+
+```Quality LXC & KVM (Root) Server Minecraft Hosting, as well as BungeeCord Network Hosting support Cheap and fast Domains WEBHOSTING DISCORD, TEAMSPEAK, Setups / Music Bots GAME SERVER, Rust, Gary's Mod and so much more```
+
+Discord Server: https://discord.gg/NTnPuSaZVg
+
+Website: https://bittmax.de/
+
 
 ## Installation | How to use the Bot
 
